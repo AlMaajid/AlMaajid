@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🌱 I’m currently learning my Front-End Skills<br>
 💬 Ask me about My Skills<br>
+<a href="https://app.daily.dev/Majith"><img src="https://api.daily.dev/devcards/b8b8235baf884de2a7def807da51d99c.png?r=zs5" width="400" alt="Maajid _'s Dev Card"/></a>
 
 
 ## 🌐 Socials:
